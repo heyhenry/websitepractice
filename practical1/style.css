@@ -9,3 +9,6 @@
     height: 400px;
 }
 
+#nav li a {
+    text-decoration: none;
+}
