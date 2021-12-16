@@ -9,6 +9,19 @@
     height: 400px;
 }
 
+#nav ul {
+    list-style-type: none;
+
+}
+
 #nav li a {
     text-decoration: none;
+    display: block;
+} 
+
+#nav li a:hover {
+    background-color:mediumpurple;
+    color: white;
+    
 }
+
