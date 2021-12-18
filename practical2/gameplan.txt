@@ -1,0 +1,26 @@
+Site Name: RDBT - Reboot Daily Boss Tracker 
+
+What is this website about?
+
+○ Basic checklist for bossing in an MMO called Maplestory.
+
+Goal?
+
+○ Functional ability to tick off bosses as you clear them.
+
+Ways to achieve it?
+
+○ Reference & utilise outside resources and examples.
+
+Features to implement: 
+
+○ Checklist 
+    ○ List of all daily bosses
+    ○ List of all weekly bosses (future)
+    ○ Boss imagery
+○ Navbar (for show - functional abilties tbd)
+○ Clear checklist button 
+
+
+
+
