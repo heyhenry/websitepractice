@@ -22,5 +22,11 @@ Features to implement:
 ○ Clear checklist button 
 
 
+References used: 
+
+Navbar code within the header tag: 
+○ https://codepen.io/BashCodes/pen/dyVMxvG
+
+
 
 
