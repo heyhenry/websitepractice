@@ -27,6 +27,10 @@ References used:
 Navbar code within the header tag: 
 ○ https://codepen.io/BashCodes/pen/dyVMxvG
 
+Navbar link animation: 
+○ https://speckyboy.com/underline-text-effects-css/  <--- 1. Alternating Underline Option was chosen
+
+
 
 
 
