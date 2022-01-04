@@ -48,6 +48,7 @@ header {
 .nav_links li {
     display: inline-block;
     padding: 0px 20px;
+
 }
 
 .nav_links li a {
@@ -58,13 +59,50 @@ header {
     color: #0088a9;
 }
 
+.nav_links  li:hover{
+    text-shadow: 0px -2px 0px rgba(0,0,0,1), 0 0 5px rgba(255,255,255,0.8),0 -4px 15px rgba(255,255,255,0.5);
+}
+
+.nav_links li:nth-of-type(1):hover ~ .underbar {
+    left: 20px;
+    width: 60px;
+    background: red;
+}
+
+.nav_links li:nth-of-type(2):hover ~ .underbar {
+    left: 125px;
+    width: 100px;
+    background: blue;
+}
+
+.nav_links li:nth-of-type(3):hover ~ .underbar{
+    left: 268px;
+    width: 65px;
+    background: pink;
+  }
+
+.nav_links li:nth-of-type(4):hover ~ .underbar{
+    left: 375px;
+    width: 100px;
+    background: greenyellow;
+}
+
+.underbar{
+    width: 0;
+    height: 5px;
+    top: 5px;
+    background: rgba(100,100,200,0);
+    position: relative;
+    -webkit-transition: 0.5s ease;
+}
+
 button {
     padding: 9px 25px;
     background-color: rgba(0, 136, 169, 1);
     border-radius: 50px;
     cursor: pointer;
     border: none;
-    }
+}
 
 button:hover {
     background-color: rgba(0, 136, 169, 0.8);
